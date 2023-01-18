@@ -1,0 +1,20 @@
+/*********************** Tag Selectors ***********************/
+
+body{
+    background-color: rgb(118, 228, 173);
+}
+img:hover{
+    background-color: gold;
+}
+
+/*********************** Class Selectors ***********************/
+
+.mutton{
+    background-color: red; /*using .opertor to access the img tag with class of mutton*/
+}
+.broccoli{
+    background-color: green;
+}
+.circular{
+    border-radius:100% ;
+}

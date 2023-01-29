@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(25, 59, 18);
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Bangers';
+    font-size: 5.9rem;
+    color: rgb(84, 182, 185);
+    padding: 1% 0;
+}
+
+h2 {
+    font-family: 'Comfortaa', cursive;
+    font-size: 2rem;
+    padding: 0.5rem 2rem;
+    font-weight: bold;
+    color: rgb(211, 118, 102);
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+}
+
+.img {
+    height: 27%;
+    width: 65%;
+}
+
+.container {
+    text-align: center;
+    margin: auto;   
+}
+footer {
+    text-align: center;
+    color: white;
+    padding: 5%;
+    font-family: 'Sacramento', cursive;
+    font-size: 1.59rem;
+}

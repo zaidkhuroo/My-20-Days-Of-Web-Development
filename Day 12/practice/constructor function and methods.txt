@@ -1,0 +1,34 @@
+//contstructor function
+function Hello(name,age,city)
+    {
+     this.name=name;	//this.keyword is used assign the variable names with the arguments of function.
+        this.age=age;
+        this.city=city;
+}
+
+//initializing a constructor function
+
+if you want to just make a variable with different properties at once, we will use constructor function, and to call it
+we will do the following steps.
+
+	var todd=new Hello("go",1,"foor"); //initializing the variable todd by calling the function and entering the data.
+
+//as e.g if we want to know name of var toddd, we will just do the following step for the same.
+
+	console.log(todd.city);
+
+//output: foor 
+
+
+//Method 
+//now creating a method
+
+this.movie=function(){	//this. keyword is used to make the method, where the method is set with an anonymous function.
+alert("hello");
+}
+
+//initializing the method;
+var callme=new Hello("going",1,"for");
+
+//calling the method to display alert
+callme.movie(); //this function will display alert on the browser wiz "hello"

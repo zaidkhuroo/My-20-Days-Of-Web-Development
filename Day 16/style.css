@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    text-align: center;
+    margin-top: 15%;
+}
+
+.image {
+    width: 120px;
+    height: 120px;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: "Babylonica", cursive;
+    color: aliceblue;
+
+}
+h1:hover{
+    color: rgb(0, 255, 128);
+}
+
+.texted {
+    margin: 0% 30% 2%;
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    color: white;
+}
+
+.fa-brands {
+    padding: 1%;
+}
+
+a {
+    color: rgb(123, 161, 245);
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(0, 255, 128);
+}
+
+#container {
+    width: 80%;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* #cta {
+    text-align: center;
+    padding: 0% 0%; 
+} */

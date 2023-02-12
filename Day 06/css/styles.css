@@ -1,0 +1,194 @@
+#title {
+  background-color: #ff4c68;
+}
+
+h1 {
+  font-family: 'ubuntu';
+  font-size: 4.2rem;
+  line-height: 1.3;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* .rotate{
+    padding: 10%;
+     transform: rotate(30deg);
+  } */
+.iphone {
+  width: 380px;
+  height: 340px;
+   margin: 0 20%; 
+  /* experiment done to hide the chin of phone under the feature section of the page */
+  /* position: absolute; */
+}
+
+  .iphone {
+    position: static;
+  }
+
+}
+
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.3rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 14px;
+}
+
+.nav-link {
+  font-family: 'Montserrat-Light', sans-serif;
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 7% 5% 5% 0;
+  font-family: 'Montserrat', sans-serif;
+
+
+  /* feature section */
+}
+
+#features {
+  font-family: 'Montserrat', sans-serif;
+  padding: 5% 10%;
+  background-color: #fff;
+  /* experiment done to hide the chin of phone under the feature section of the page */
+  /* position: relative;
+  z-index: 1; */
+
+}
+
+.icon-features {
+  text-align: center;
+  padding: 5%;
+
+
+}
+
+h3 {
+
+  font-family: 'ubuntu';
+  font-size: 1.7rem;
+  font-weight: bold;
+
+}
+
+p {
+ 
+  font-size: 0.9rem;
+  color: #8f8f8f;
+}
+
+.icons {
+  color: #b8675d;
+  /* padding: 3rem; */
+  margin-bottom: 1rem;
+}
+
+.icons:hover {
+  color: #72180c;
+}
+
+/* Testimonial section */
+#testimonials {
+
+  background-color: #ff4c68;
+  color: white;
+  padding-bottom: 3%;
+
+}
+
+.iphonex {
+  margin: 4rem 11rem 3rem;
+  width: 380px;
+  height: 450px;
+}
+
+h2 {
+  /* text-align: left;  */
+  font-size: 2.8rem;
+  font-family: "ubuntu";
+  font-weight: bold;
+  /* padding: 24% 19% 7%; */
+}
+
+#press {
+  background-color: #ff4c68;
+}
+
+.press-images {
+  margin: 10px 60px 70px;
+  width: 15%;
+
+}
+
+.testimonial-image {
+  margin: 4rem 13rem 3rem;
+  width: 380px;
+  height: 450px;
+}
+
+.testimonial-text {
+  font-size: 2.7rem;
+  font-family: "ubuntu";
+  font-weight: bold;
+  height: 1.4rem;
+  margin-top: 4rem;
+  padding: 16% 19% 7%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+  /* padding: 5% 10% 5%; */
+}
+
+/* .price-button{
+  margin: 1% 1%;
+  align-items: center;
+} */
+
+/* call to action section */
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding:7% 15%;
+  color: #fff;
+}
+#action-header{
+  font-style: 'ubuntu';
+  font-weight: bold;
+  font-size: 3rem; 
+}
+
+/* footer section    */
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding:5% 15%
+}
+.social-tag{
+  padding:2rem 0.8rem;
+  color: #491d17;
+}
+.social-tag:hover{
+  color: #c45749;
+}
+.ios15{
+  color:#da9393;
+  padding: 3% 12% 6%;
+  font-size: 1rem;
+  height: 0.8rem;
+}

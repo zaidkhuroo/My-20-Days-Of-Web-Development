@@ -1,0 +1,177 @@
+#header {
+  color: rgb(209, 228, 221);
+  background-image: url("/images/galaxy.jpg");
+    /* linear-gradient(to right, #434343 0%, black 100%); */
+    background-size: cover;
+    background-position: fill;
+    width: 100%;
+   
+  }
+
+/* #leaner {
+  color: rgb(209, 228, 221);
+  background-image:
+    linear-gradient(to right, #434343 0%, black 100%);
+
+} */
+
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Montserrat';
+  font-weight: bolder;
+
+}
+
+.nav-item {
+  padding: 0.5rem 1rem;
+
+}
+
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+}
+
+.navbar-brand {
+  padding-left: 3rem;
+  font-size: 5rem;
+  font-weight: 700;
+  font-family: "Babylonica";
+  color: #ffffff;
+
+}
+
+.navbar-brand:hover {
+  color: red;
+}
+
+.insider {
+  text-align: center;
+  /* margin: 15% 25%; */
+  padding: 15% 20%;
+}
+
+.centername {
+  font-size: 4.2rem;
+  font-weight: 400;
+  font-family: "Unbounded";
+
+}
+
+.freelancer {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 700;
+  padding-bottom: 10px;
+ 
+
+}
+
+#about-section {
+  background-image: linear-gradient(to right, #00b09b, #96c93d);
+  padding: 1% 1% 10%;
+}
+
+.about {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  font-family: "Unbounded";
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  color: #fff;
+}
+
+.imageabout {
+  margin: 3% 6% 0% 1%;
+  width: 400px;
+  height: 480px;
+}
+
+.outsider {
+  /* text-align: center; */
+  margin: 1% 1%;
+}
+
+.about-text {
+  padding: 1rem 1rem;
+  font-size: 1rem;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+.listname {
+  font-weight: 900;
+  font-size: 1.3rem;
+  padding: 0 80px;
+  color: #0f0c29;
+  font-family: "Montserrat";
+  /* font-weight: bolder; */
+
+}
+
+#footer {
+  padding: 1% 2% 1%;
+  text-align: center;
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+
+}
+
+.copyright {
+  font-size: 0.8rem;
+  margin-top: 1rem;
+  color: rgb(180, 136, 136);
+}
+
+.social-tag {
+  font-size: 1.3rem;
+  padding: 10px;
+  color: rgb(197, 233, 231);
+}
+
+.social-tag:hover {
+  color: #70eb60;
+}
+
+#my-work {
+  padding: 30px 10px 150px 10px;
+  text-align: center;
+
+}
+
+.sekelton {
+  width: 350px;
+  height: 300px;
+  align-items: center;
+  margin-left: 10%;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.working {
+  font-size: 4rem;
+  padding: 3rem 3rem;
+  font-weight: 400;
+  font-family: "Unbounded";
+}
+
+.btn {
+  width: 120px;
+  height: 30px;
+  /* margin-left: 32.5%; */
+  margin: 2rem 8rem;
+
+}
+
+.worktext {
+  padding: 0 5%;
+  font-family: 'Montserrat';
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: "ubuntu";
+  font-weight: bold;
+  font-size: 2.4rem;
+}

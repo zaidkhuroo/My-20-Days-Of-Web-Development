@@ -35,3 +35,4 @@ var types = new Typed(".new-eras", {
 });
 // changing the color of main text using jquery.
 $(".new-text").css("color","yellow");
+$(".navbar-brand").text("Zaid");

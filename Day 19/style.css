@@ -148,6 +148,12 @@
   padding-bottom: 2rem;
   padding-top: 2rem;
 }
+.card:hover {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-style: solid;
+  border-width:01px ;
+  border-bottom: 2px;
+}
 
 .working {
   font-size: 4rem;

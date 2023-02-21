@@ -29,7 +29,7 @@
     width: 70px;
     cursor: pointer;
     color: white;
-    opacity: 1.5;
+    opacity: 1.51;
 }
 
 .user {
@@ -90,7 +90,7 @@ button {
 
 .discover p {
     color: #f0eef1;
-    font-size: 14px;
+    font-size: 15px;
     margin: 20px 0;
     font-family: "Montserrat", sans-serif;
     font-weight: 500;

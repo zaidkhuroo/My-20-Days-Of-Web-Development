@@ -30,4 +30,4 @@
 //      var monthsleft=yearleft*12;
 //      console.log("you have" + daysleft +"days," + weeksleft + "weeks," + monthsleft + "months, " + yearleft + "years left");
 //  }
-//   mylife(80);
+//   mylife(80);         

@@ -12,7 +12,7 @@
 
 
 //exercise 3
-// var out=prompt("Enter your name");
+// var out=prompt("Enter your name");      
 // var output=out.slice(0,1);
 // var outlet=out.slice(1,5);
 // var putlet=outlet.toLowerCase();

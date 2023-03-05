@@ -7,5 +7,5 @@ alert("Welcome Zaid");
     }
 else
 {
-alert("get out");
+alert("get out");   
     }

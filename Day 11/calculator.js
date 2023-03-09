@@ -12,4 +12,4 @@ function divide(a,b){
 }
 function calculator(a,b,operator){
     return operator(a,b);
-}
+}    

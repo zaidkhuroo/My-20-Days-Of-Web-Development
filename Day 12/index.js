@@ -35,7 +35,7 @@ function pressMe(key) //making a function to which will detect w,a,s,d,j,k,l fro
             var audio = new Audio("sounds/tom-1.mp3"); //making a varibale of audio and setting path of the sounds where the audio file is placed.
             audio.play();
             break;
-
+ 
         case "s":
             var audio = new Audio("sounds/tom-2.mp3"); //making a varibale of audio and setting path of the sounds where the audio file is placed.
             audio.play();

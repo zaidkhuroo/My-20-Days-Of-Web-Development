@@ -3,7 +3,7 @@ $("h1").addClass("big-boss"); //instead of using document.queryselector, we use 
 $("h1").addClass("big-boss margin-20"); //adding margin-20 class on h1(multiple class)
 $("h1").text("change me"); //.txt will change the text of the h1
 $("button").html("<em>don't</em>"); //.html will replace the need of wrting of inner.html.
-
+ 
 //mainuplating attributes
 $("a").attr("href", "https://www.yahoo.com"); //by using .attr and inserting href at first and an anchor link to other side will modify the anchor tag and thus replacing it with this anchor tag link, which is yahoo.
 

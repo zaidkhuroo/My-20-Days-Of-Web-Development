@@ -30,7 +30,7 @@ var type = new Typed(".new-era", {
     typeSpeed:100,
     backSpeed:100,
     loop:true
-    
+     
 });
 var types = new Typed(".new-eras", {
     strings:[" My Work"],

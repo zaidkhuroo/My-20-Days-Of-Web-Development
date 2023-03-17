@@ -3,7 +3,7 @@
   background-image: url("/images/galaxy.jpg");
     /* linear-gradient(to right, #434343 0%, black 100%); */
     background-size: cover;
-    background-position: fill;
+    background-position: fill; 
     width: 100%;
    
   }

@@ -13,7 +13,7 @@ $(".navbar-brand").hover(function(event){
   
 // });
 var typed = new Typed(".new-text", {
-    strings:[" Zaid", "a Programmer",  "a Photographer","a Stargazer ★"],
+    strings:[" Zaid", "a Programmer",  "a Photographer","a Stargazer ★"], 
     typeSpeed:100,
     backSpeed:100,
     loop:true

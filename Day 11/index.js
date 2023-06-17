@@ -4,7 +4,7 @@ var drumbox=document.querySelectorAll(".drum").length;
 
 for(count=0;count<drumbox;count++)
 {
-//   query to add event listener on the button and adding behaviour as to get clicked 
+//   query to add event listener on the button and adding behaviour as to get clicked  
 document.querySelectorAll("button")[count].addEventListener("click", igotclicked);
 }
 // function to handle the behaviour of the button when clicked

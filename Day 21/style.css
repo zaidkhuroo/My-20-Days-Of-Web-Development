@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.bg-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+}
+
+.logo-diver {
+    text-align: center;
+padding-top: 10px;
+}
+
+.logo-img {
+    height: 14.5rem;
+    width: 14.5rem;
+}
+
+.sign {
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: rgb(68, 65, 65);
+    outline: #fbceb5;
+    text-shadow: #000;
+}
+
+.form-control:hover {
+    background: transparent;
+    border-color: rgba(255, 255, 255, 0.4);
+    font-family: "Raleway", sans-serif;
+
+}
+
+.login-wrap {
+    flex-wrap: wrap;
+    /* position: relative; */
+    align-items: center;
+    margin: auto;
+    width: 300px;
+    justify-content: center;
+
+}
+
+.btn.btn-primary {
+    background: #6384df;
+    border: 1px solid #867871;
+    color: #272525;
+    border-radius: 10px;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 0.03cm;
+    font-weight: lighter;
+    margin:auto;
+    width:250px
+}
+
